@@ -18,6 +18,9 @@ along with this program.  If not, see &lt;https://www.gnu.org/licenses/&gt;.</s:
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.TwoSumTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.TopFrequentElementTests.TopFrequentElements_GivenWhatever_ReturnsWhatever&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.ProductExceptSelfTests.ProductExceptSelf_GivenEmptyList_ReturnsEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.ProductExceptSelfTests.ProductExceptSelf_GivenSingleElementList_ReturnsSingleElement&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.ProductExceptSelfTests.ProductExceptSelf_GivenMultipleElementList_ReturnsSingleElement&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=be32b857_002Dbb8d_002D4b66_002D9aa7_002D7511114673c4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ContainsDuplicate_GivenEmptyList_ReturnsFalse" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
