@@ -18,7 +18,7 @@ namespace LeetCode.Challenges.Solutions;
 
 using FluentAssertions;
 
-public class IsAnagramTests
+public class ValidAnagramTests
 {
     [Fact]
     public void IsAnagram_GivenEmptyStrings_ReturnsFalse()
