@@ -14,7 +14,7 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see &lt;https://www.gnu.org/licenses/&gt;.</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=62e6ce34_002D1a6e_002D4bda_002Db0ce_002D85646e72ec58/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ContainsDuplicateTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=62e6ce34_002D1a6e_002D4bda_002Db0ce_002D85646e72ec58/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ContainsDuplicateTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.TwoSumTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.TopFrequentElementTests.TopFrequentElements_GivenWhatever_ReturnsWhatever&lt;/TestId&gt;&#xD;
@@ -30,14 +30,17 @@ along with this program.  If not, see &lt;https://www.gnu.org/licenses/&gt;.</s:
     &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.ValidPalindrome.IsPalindrome_GivenPalindrome_ReturnsTrue&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.ValidPalindrome.IsPalindrome_GivenAdvancedPalindrome_ReturnsTrue&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.ValidPalindrome&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.EncodeAndDecodeStringsTests.Decode_GivenEmptyString_ReturnsEmptyList&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=be32b857_002Dbb8d_002D4b66_002D9aa7_002D7511114673c4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ContainsDuplicate_GivenEmptyList_ReturnsFalse" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=be32b857_002Dbb8d_002D4b66_002D9aa7_002D7511114673c4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ContainsDuplicate_GivenEmptyList_ReturnsFalse" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.TwoSumTests.TwoSum_Tests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.GroupAnagramTests.GroupAnagrams_GivenEmptyList_ReturnsEmptyResult&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.GroupAnagramTests.GroupAnagrams_GivenSingleElementList_ReturnsEmptyResult&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.GroupAnagramTests.GroupAnagrams_GivenMultipleElementList_ReturnsGroupedResult&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.TopFrequentElementTests.TopFrequentElements_GivenWhatever_ReturnsWhatever&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.EncodeAndDecodeStringsTests.Decode_GivenEmptyString_ReturnsEmptyList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::971B691B-AC19-4023-9C49-82DA89718D88::net7.0::LeetCode.Challenges.Solutions.EncodeAndDecodeStringsTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
