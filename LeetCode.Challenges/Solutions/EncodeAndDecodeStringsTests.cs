@@ -95,7 +95,8 @@ public class EncodeAndDecodeStringsTests
         _ = result[1].Should().Be("cheese");
     }
 
-    private static string Encode(IEnumerable<string> inputs) => inputs.Aggregate(string.Empty, (current, s) => current + s.Length + "#" + s);
+    private static string Encode(IEnumerable<string> inputs) =>
+        inputs.Aggregate(string.Empty, (current, s) => current + s.Length + "#" + s);
 
     private static string[] Decode(string input)
     {
